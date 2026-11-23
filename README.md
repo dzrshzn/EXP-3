@@ -57,13 +57,6 @@ To control the status of the given lamp by using two-way switches.
 <img width="1062" height="532" alt="Screenshot 2026-11-23 103302" src="https://github.com/user-attachments/assets/f70362ad-9342-4826-a064-b0cf1bf8299f" />
 
 
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-
 ## B. CROSS CONNECTION
 
 ### Circuit diagram
@@ -76,14 +69,6 @@ To control the status of the given lamp by using two-way switches.
 ### Tabulation 2: Truth table – cross connection
 
 <img width="1057" height="522" alt="Screenshot 2026-11-23 103342" src="https://github.com/user-attachments/assets/03876ba1-6e75-4eaa-8912-32906d4cc31b" />
-
-
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
 
 ## SIMULATION USING PROTEUS
 
